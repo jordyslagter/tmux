@@ -4,6 +4,12 @@ A simple tmux config designed to be compatible with my [vim config](https://gith
 
 ## Installation
 
+Install the needed requirements:
+
+```bash
+brew install tmux tpm
+```
+
 Clone this repo to tmux.
 
 ```bash
