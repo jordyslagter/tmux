@@ -22,5 +22,5 @@ Open tmux
 tmux
 ```
 
-Now hit `<leader>I` (capital I) to instal plugins. In this config `<leader>`
+Now hit `<leader>I` (capital I) to install plugins. In this config `<leader>`
 is the default ctrl + b.
