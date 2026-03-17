@@ -1,4 +1,4 @@
-# tmux
+# Jordy Slagter's Tmux config
 
 A simple tmux config designed to be compatible with my [vim config](https://github.com/jordyslagter/vim).
 
@@ -6,19 +6,19 @@ A simple tmux config designed to be compatible with my [vim config](https://gith
 
 Install the needed requirements:
 
-```bash
+```fish
 brew install tmux tpm
 ```
 
 Clone this repo to tmux.
 
-```bash
-git clone https://github.com/jordyslagter/tmux.git ~/.config/tmux
+```fish
+git clone https://github.com/jordyslagter/tmux.git $XDG_CONFIG_HOME/tmux
 ```
 
 Open tmux
 
-```bash
+```fish
 tmux
 ```
 
